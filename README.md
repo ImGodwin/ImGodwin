@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ImGodwin, currently building my skills to become an outstanding developer long-term.
 - 👀 I’m interested in backened development
-- 🌱 I’m currently learning bettering my CORE Java
+- 🌱 I’m currently developing Rest Apis for a backend video streaming application
 - 💞️ I’m looking to collaborate on projects that are futuristic.
 - 📫 How to reach me - my email is godwinmail6@gmail.com
 
